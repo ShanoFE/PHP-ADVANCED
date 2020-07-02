@@ -48,7 +48,7 @@ d. padding (in pixels voor de tabelcel)
 4. een verstuurknop
 4. [ ] De ingevoerde data van het formulier worden verstuurd (gePOST) naar het bestand advanced-2.php
 5. [ ] In advanced-2.php maak je een associatieve array aan met gegevens over jezelf. Bijvoorbeeld: naam, leeftijd, muzieksmaak, woonplaats, sport, etc.
-6. [ ] Met een foreach loop doorloop je deze gemaakte array en maak je hiervan een tabel
+6. [ ] Met een foreach loop doorloop je deze gemaakte array en maak je hiervan een tabel 
 7. [ ] De stijl van deze tabel en inhoud wordt bepaald door de data die is verstuurd met het formulier in advanced-1.php
 8. [ ] Als dit helemaal werkt ga je verder met de tweede opdracht. Dit is een uitbreiding van deze opdracht
 
