@@ -15,7 +15,9 @@ $ditBenIk = array(
     "merkfiets"  => "Batavus",
     "woonplaats" => "Amsterdam",
     "eten"       => "Patat",
-    "kleurogen"  => "bruin"
+    "kleurogen"  => "bruin",
+    "hobby"      => "Gamen",
+    15           => 74,
 );
 ?>
 
